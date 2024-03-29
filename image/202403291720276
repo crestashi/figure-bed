@@ -1,0 +1,65 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+# 102.54.94.97 rhino.acme.com # source server
+# 38.25.63.10 x.acme.com # x client host
+
+# localhost name resolution is handled within DNS itself.
+# 127.0.0.1 localhost
+# ::1 localhost
+127.0.0.1 activate.navicat.com
+
+#183.230.202.30 vtms-uat.cmal.com.cn
+
+#202.98.63.212 wxtest.cmal.com.cn
+
+#202.98.63.220 i-bms.cmal.com.cn
+
+#202.98.63.199 iyms.cmal.com.cn
+
+#183.230.202.143 vtms.cmal.com.cn
+
+# 218.13.60.151 tms-uat.crb.cn
+10.207.65.4 tms-dev.crb.cn
+
+
+# 雪花mq域名解析
+10.201.23.155 ocmssecdevmq.crb.cn
+10.201.23.155 ocmssecsitmq.crb.cn
+10.201.23.155 ocmssecuatmq.crb.cn
+10.204.128.153 ocmssecmq.crb.cn
+
+
+# 南航项目host配置
+10.10.30.237 kibana-log.csair.com
+10.10.30.237 grafana.csair.com
+10.10.30.237 dashboard.csair.com
+10.10.30.237 minio.csair.com
+10.10.30.237 account.csair.com
+10.10.30.237 usf.csair.com
+10.10.30.237 alertmanager.csair.com
+10.10.30.237 prometheus.csair.com
+10.10.30.237 rabbitmq.csair.com
+10.10.30.237 phpmyadmin.csair.com
+10.10.30.233 gitlab.dev.csair.com
+10.10.30.233 drone.csair.com
+10.10.30.237 nacos.csair.com
+10.10.30.237 gateway.dev.csair.com
+#10.10.30.233 nexus.dev.csair.com
+10.8.81.153 nexus.dev.csair.com
+10.10.30.237 gateway-wan.dev.csair.com
+10.10.30.237 driver.dev.csair.com carrier.dev.csair.com
+10.10.30.237 bms.dev.csair.com
+10.10.30.237 test-xxl-job-srm.csair.com
